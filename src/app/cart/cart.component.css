@@ -1,0 +1,12 @@
+.Cartcontainer{
+  border: 1px solid gray;
+  background-color: #ccc;
+  width: 600px;
+  align-items: center;
+  text-align: center;
+  padding: 10px;
+  margin: 1vh;
+}
+h2{
+    color: blue;
+}

@@ -1,0 +1,13 @@
+.button .fancy-button{
+    color: white;
+}
+
+.BTN{
+    display: flex;
+    background-color: white;
+    border-radius: 5px;
+    font-size: larger;
+    padding: 5px;
+    cursor: pointer;
+    text-decoration: solid;
+}
